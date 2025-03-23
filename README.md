@@ -17,5 +17,9 @@ cd rmfs-optimization
 
 ## Install dependencies:
 pip install -r requirements.txt
+
+or
+
+pip install numpy pandas matplotlib gym stable-baselines3 shimmy
 ## Run the main script:
-python main.py
+python app.py
